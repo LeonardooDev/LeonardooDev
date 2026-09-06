@@ -1,4 +1,4 @@
-# ¡Hola! Soy Leonardo 👋
+# ¡Hola! Soy Leonardo 🙀
 
 Desarrollador web enfocado en la creación de aplicaciones modernas, responsivas e interactivas, apasionado por construir software funcional y con un excelente diseño de interfaz.
 
