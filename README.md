@@ -43,5 +43,9 @@ Desarrollador web enfocado en la creación de aplicaciones modernas, responsivas
 
 ### 📬 ¿Dónde encontrarme?
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leoduran185@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leonardoluxx)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=leoduran185@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://instagram.com/leonardoluxx" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
